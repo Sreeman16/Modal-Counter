@@ -1,3 +1,3 @@
-# Modal-Counter
+DAY 45
 
-## Live Demo:https://raydcode.github.io/ModalCounter/
+CLICK HERE FOR LIVE https://sreeman16.github.io/Modal-Counter/
